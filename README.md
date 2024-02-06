@@ -9,7 +9,7 @@ This project uses the Mediapipe library along with OpenCV to detect and track th
 ## Features
 
 - Real-time pose detection and tracking.
-- Overlay emojis on the nose.
+- Overlay emojis on the face.
 - Overlay images of hands and boots on corresponding body parts.
 - Detect when a cigarette is close to the face and display smoke effect.
 
