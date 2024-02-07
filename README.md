@@ -1,6 +1,8 @@
 # Emojiman 🤠
 Motion tracking avatar 
 
+![emojiman](./emojiman-002.gif)
+
 ## Overview
 Emojiman is a fun project that overlays emojis and images on a person's face and body in real-time using computer vision techniques.
 
